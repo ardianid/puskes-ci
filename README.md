@@ -1,3 +1,9 @@
+# puskes-ci
+
+sebuah program yang dibuat untuk puskesmas (pusat kesehatan masyarakat), di salah satu kabuten lampung
+
+mengunakan bahasa pemrograman PHP, IDE CI dan database MYSQL
+
 # CodeIgniter 2
 Open Source PHP Framework (originally from EllisLab)
 
